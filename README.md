@@ -3,6 +3,10 @@
 **EduIDChain** is a decentralized academic credential verification system built on the Cardano blockchain. It enables universities to issue NFT-based certificates and allows employers or institutions to verify them securely and transparently.
 
 ---
+## 📽️ Demo Video
+
+Watch the full walkthrough of EduIDChain on YouTube:  
+👉 [https://www.youtube.com/watch?v=Hd7Slz-s6Qc](https://www.youtube.com/watch?v=Hd7Slz-s6Qc)
 
 ## 🚀 Key Features
 
@@ -13,6 +17,15 @@
 - 🌐 **React Frontend**: Clean, modern UI built with Tailwind CSS
 
 ---
+## 📽️ Demo Video
+
+Watch the full walkthrough of EduIDChain on YouTube:  
+👉## 📽️ Demo Video
+
+Watch the full walkthrough of EduIDChain on YouTube:  
+👉 https://www.youtube.com/watch?v=Hd7Slz-s6Qc
+
+
 
 ## 🧱 Tech Stack
 
